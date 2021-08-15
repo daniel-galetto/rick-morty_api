@@ -1,0 +1,51 @@
+body {
+    background:rgb(154, 149, 223);
+    color: rgb(218, 42, 42);
+
+}
+
+.card {
+    box-shadow: 0 14px 18px 0 rgba(0,0,0,0.2);
+    width:100%;
+    text-align: center;
+    padding: 10px;
+    background: #000000d0;
+    border-radius: 10px;
+    
+    
+  }
+  
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+.container {
+    background:transparent;
+    text-align: left;
+    color:white;   
+
+}
+
+img {
+    width: 100%;
+    object-fit: cover;
+    align-items: center;
+}
+
+ul {
+    display: inline-flex;
+    
+}
+
+.center {
+    text-align: center;
+
+}
+
+.title {
+    width: 75%;
+}
+
+
+
+
